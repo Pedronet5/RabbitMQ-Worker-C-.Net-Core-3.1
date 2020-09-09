@@ -1,0 +1,15 @@
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.exe
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.AssemblyInfoInputs.cache
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.AssemblyInfo.cs
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.CoreCompileInputs.cache
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.deps.json
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.runtimeconfig.json
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.runtimeconfig.dev.json
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.dll
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.pdb
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.CopyComplete
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.dll
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.pdb
+C:\Users\pleite\Desktop\Pedro\RabbitMQ Projects\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.genruntimeconfig.cache
